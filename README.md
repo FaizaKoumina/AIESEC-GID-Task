@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React-Bootstrap was used as a framework for this project. To learn more about React-Bootstrap, click on the link: https://react-bootstrap.github.io/
+
 ## Available Scripts
 
 In the project directory, you can run:
