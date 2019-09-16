@@ -1,0 +1,30 @@
+.Opportunity{
+  text-align: left;
+}
+
+.Opportunity__title{
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+}
+
+.Opportunity__text{
+  color: #555555;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.GV, .GE, .GT{
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.GV{
+  color:#f85a40;
+}
+.GT{
+  color:#0a8ea0;
+}
+.GE{
+  color:#30c39e;
+}
