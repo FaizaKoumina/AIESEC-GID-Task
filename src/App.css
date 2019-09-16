@@ -12,16 +12,6 @@ img {
   height: 220px;
 }
 
-/* Bootstrap Customizations */
-
-.btn, .btn:focus, btn:hover, btn:active{
-  border-radius: 0;
-  box-shadow: none;
-  padding-left: 1em;
-  padding-right: 1em;
-  text-transform: capitalize;
-}
-
 /* App Styles */
 
 .App {
@@ -43,7 +33,7 @@ img {
 .App__big-title h1{
   font-weight: 900;
   font-size: 3rem;
-  padding-top: 140px;
+  padding-top: 7rem;
   color: #ffffff;
 }
 
